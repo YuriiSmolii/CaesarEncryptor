@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y39JZrK4tojRdVQLXaVQDBIR1jx4KaMvivfto3WemkdDXGYv3GU2fgQgZOdTs/pIkJmnZYQXMTfax0KMjusUdA==",
+  "success": true,
+  "projectFilePath": "D:\\CaesarEncryptor\\CaesarEncryptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ysmoli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
